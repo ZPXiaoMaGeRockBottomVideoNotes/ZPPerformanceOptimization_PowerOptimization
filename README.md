@@ -1,0 +1,2 @@
+# ZPPerformanceOptimization_PowerOptimization
+本Demo主要介绍了APP耗电的几个主要原因，还介绍了几种耗电优化的方案。
